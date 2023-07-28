@@ -6,4 +6,6 @@ def main(list_num):
     Returns:
         int: return answer
     """
-    return
+    katta=max(list_num)
+    return katta
+print(main(list_num=[3,2,6,4,1]))
